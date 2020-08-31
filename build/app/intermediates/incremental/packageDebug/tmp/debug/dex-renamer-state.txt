@@ -1,0 +1,4 @@
+#Sun Aug 30 18:03:40 KST 2020
+base.0=E\:\\androidproject\\flutter_droneapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
